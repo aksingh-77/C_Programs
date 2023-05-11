@@ -1,0 +1,1 @@
+extern int x = 10; //this is external variable which is also global where this file is imported
